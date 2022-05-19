@@ -1,0 +1,28 @@
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.deps.json
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.runtimeconfig.json
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\ref\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.pdb
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.csproj.AssemblyReference.cache
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.AssemblyInfoInputs.cache
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.AssemblyInfo.cs
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.csproj.CoreCompileInputs.cache
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\ref\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.pdb
+C:\Users\timst\Desktop\Schule\createwebapiproject\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.genruntimeconfig.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.deps.json
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.runtimeconfig.json
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\ref\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\bin\Debug\net6.0\NORTHWNDDb.pdb
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.csproj.AssemblyReference.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.AssemblyInfoInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.AssemblyInfo.cs
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.csproj.CoreCompileInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\ref\NORTHWNDDb.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.pdb
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\WebApiServices\NORTHWNDDb\obj\Debug\net6.0\NORTHWNDDb.genruntimeconfig.cache
